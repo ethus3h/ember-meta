@@ -1,5 +1,5 @@
 *
 !.gitignore
 !Ember
-#!Ember\ satellite\ projects
+!Ember\ satellite\ projects
 !README.md

@@ -1,6 +1,6 @@
 [submodule "Ember"]
 	path = Ember
-	url = git://github.com/ethus3h/ember
+	url = https://github.com/ethus3h/ember
 [submodule "Ember satellite projects"]
 	path = Ember satellite projects
-	url = git://github.com/ethus3h/ember-satellite-projects
+	url = https://github.com/ethus3h/ember-satellite-projects
