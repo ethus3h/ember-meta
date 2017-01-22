@@ -1,0 +1,3 @@
+[submodule "Ember"]
+	path = Ember
+	url = git://github.com/ethus3h/ember
