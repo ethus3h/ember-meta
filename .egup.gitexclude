@@ -1,0 +1,5 @@
+*
+!.egup.gitexclude
+!Ember
+!Ember\ satellite\ projects
+!README.md
